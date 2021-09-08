@@ -543,7 +543,7 @@ describe('Masonry', function () {
             expect(a11yState.getAttribute('aria-live')).to.equal('off');
             done();
           }, 1650);
-        }, 210);
+        }, 220);
       });
     });
   });
